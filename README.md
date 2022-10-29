@@ -1,14 +1,19 @@
-### Hi there 👋
 
-<!--
-**Jeffsty/Jeffsty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  
+  ### Hi there 👋
+  
+</div>
 
-Here are some ideas to get you started:
--->
+## About Me:
+I am a something from South Wales.
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python and JavaScript
-- 📫 How to reach me: ...
+- 📫 How to reach me: <a href="https://twitter.com/kirstysees">Twitter</a> LinkedIn
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have bad taste in films and music.
 
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width ="40px"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width ="40px"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width ="40px"><img src="https://github.com/devicons/devicon/blob/master/icons/labview/labview-original.svg" width ="40px">
+<img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" width ="40px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width ="40px"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width ="40px">
