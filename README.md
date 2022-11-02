@@ -6,7 +6,7 @@
 </div>
 
 ## About Me:
-I am a something from South Wales.
+I am a Test Development Engineer from South Wales.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Python and JavaScript
