@@ -6,9 +6,9 @@
 </div>
 
 ## About Me:
-I am a Test Development Engineer from South Wales.
+I am a Graduate Test Engineer from South Wales.
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Kitchen Kanban
 - 🌱 I’m currently learning Python and JavaScript
 - 📫 How to reach me: <a href="https://twitter.com/kirstysees">Twitter</a> LinkedIn
 - 😄 Pronouns: She/Her
