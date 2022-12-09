@@ -6,7 +6,7 @@
 </div>
 
 ## About Me:
-I am a Graduate Test Engineer and MSc Computing student and MSc Computing stud from South Wales.
+I am a Graduate Test Engineer and MSc Computing student from South Wales.
 
 - 🔭 I’m currently working on CS50’s Introduction to Programming with Python
 - 🔭 I’m currently working on CS50’s Introduction to Programming with Python
