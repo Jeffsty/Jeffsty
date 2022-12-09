@@ -9,7 +9,7 @@
 I am a Graduate Test Engineer from South Wales.
 
 - 🔭 I’m currently working on Kitchen Kanban
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Python and LabVIEW
 - 📫 How to reach me: <a href="https://twitter.com/kirstysees">Twitter</a> LinkedIn
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have bad taste in films and music.
