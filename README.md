@@ -8,7 +8,7 @@
 ## About Me:
 I am a Graduate Test Engineer and MSc Computing student from South Wales.
 
-- 🔭 I’m currently working on CS50’s Introduction to Programming with Python
+- 🔭 I’m currently working on Angela Yu's 100 Days's of Code: The Complete Python Pro Bootcamp
 - 🌱 I’m currently learning Python and LabVIEW
 - 📫 How to reach me: <a href="https://twitter.com/kirstysees">Twitter</a> LinkedIn
 - 😄 Pronouns: She/Her
